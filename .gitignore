@@ -1,0 +1,10 @@
+# OS level
+.DS_Store
+
+# IDE level
+.idea
+
+# Lang level
+node_modules
+
+# Project level
