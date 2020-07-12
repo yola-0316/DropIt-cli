@@ -1,0 +1,9 @@
+title = "DropIt cli"
+
+[options]
+
+[[associations]]
+name = "压缩文件"
+match = "*;**"
+action = "compress"
+destination = "${Desktop}/压缩文件.zip"

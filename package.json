@@ -1,0 +1,14 @@
+{
+  "name": "dropit",
+  "version": "0.1.0",
+  "description": "dropit cli version, crossplatform",
+  "main": "index.js",
+  "author": "Milos",
+  "license": "MIT",
+  "dependencies": {
+    "@iarna/toml": "3.0.0",
+    "archiver": "4.0.2",
+    "chalk": "4.1.0",
+    "commander": "5.1.0"
+  }
+}
